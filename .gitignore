@@ -1,0 +1,7 @@
+.vscode/settings.json
+bin/Desafio1/Simulacaobancaria.class
+bin/Desafio2/IllegalArgumentException.class
+bin/Desafio2/VerificadorNumeroConta.class
+bin/Desafio3/VerificadorElegibilidade.class
+bin/Desafio4/VerificacaoChequeEspecial.class
+bin/Desafio5/ControleSimplesDeSaque.class
